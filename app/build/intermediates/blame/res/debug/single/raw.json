@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Development\\Projects\\Android\\KYU RC Car\\app\\build\\intermediates\\res\\merged\\debug\\raw\\soundd.mp3",
+        "source": "D:\\Development\\Projects\\Android\\KYU RC Car\\app\\src\\main\\res\\raw\\soundd.mp3"
+    },
+    {
+        "merged": "D:\\Development\\Projects\\Android\\KYU RC Car\\app\\build\\intermediates\\res\\merged\\debug\\raw\\buts.mp3",
+        "source": "D:\\Development\\Projects\\Android\\KYU RC Car\\app\\src\\main\\res\\raw\\buts.mp3"
+    }
+]

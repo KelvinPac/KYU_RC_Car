@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Development\Projects\Android\KYU RC Car\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99db9a2c1d7aa729f3a21a737913659214180d53">
+        <dex dex="D:\Development\Projects\Android\KYU RC Car\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c2c1eed1fb0ed04e40584964efd63c990db8946f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Development\Projects\Android\KYU RC Car\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0c26e43431b3887cc8296d15754a0faf46be7d8">
+        <dex dex="D:\Development\Projects\Android\KYU RC Car\app\build\intermediates\pre-dexed\debug\instant-run_4b7c6db82ef04db9e4ad4ce817a7cbc78b47c039.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Development\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Development\Projects\Android\KYU RC Car\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_fc4b4f48e0d20fefc80b9a9667fe28202953f14d.jar" />
+    </item>
+
+</items>

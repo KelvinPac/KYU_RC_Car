@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Development\\Projects\\Android\\KYU RC Car\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\car.png",
+        "source": "D:\\Development\\Projects\\Android\\KYU RC Car\\app\\src\\main\\res\\drawable-hdpi\\car.png"
+    },
+    {
+        "merged": "D:\\Development\\Projects\\Android\\KYU RC Car\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\Development\\Projects\\Android\\KYU RC Car\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Development\\Projects\\Android\\KYU RC Car\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about.png",
+        "source": "D:\\Development\\Projects\\Android\\KYU RC Car\\app\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "D:\\Development\\Projects\\Android\\KYU RC Car\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\butt1.png",
+        "source": "D:\\Development\\Projects\\Android\\KYU RC Car\\app\\src\\main\\res\\drawable-hdpi\\butt1.png"
+    }
+]
